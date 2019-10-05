@@ -32,3 +32,27 @@ than or equal to `n`. For example:
 ## References
 
 [Wikipedia](https://en.wikipedia.org/wiki/Factorial)
+
+# Fibonacci Numbers
+
+
+The fibonnaci sequence takes the sum of the two previous positive integers to generate the next one. It has two base cases: 0, and 1 (neither of which have 2 previous positive integers). Every other integer has a fibbonaci value, as demonstrated in the following table:
+
+
+| n     | Nth Fibonacci Number        | 
+| ----- | --------------------------: |
+| 0     | 0                           |
+| 1     | 1                           |
+| 2     | 1                           |
+| 3     | 2                           |
+| 4     | 3                           |
+| 5     | 5                           |
+| 6     | 8                           |
+| 7     | 13                          |
+| 8     | 21                          |
+| 9     | 34                          |
+| 10    | 55                          |
+
+## References
+
+[Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
